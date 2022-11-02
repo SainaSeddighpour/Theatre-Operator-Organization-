@@ -1,3 +1,3 @@
 # Theatre-Operator-Organization-
 Developed an executable script to create tables that described the relational schema of the theatre operator organization
-[A1_Q2_3DB3.drawio.pdf](https://github.com/SainaSeddighpour/Theatre-Operator-Organization-/files/9923109/A1_Q2_3DB3.drawio.pdf)
+![ER](https://user-images.githubusercontent.com/91627578/199570718-f48da1b7-825d-4cf2-865b-84aaaff1a1fe.png
